@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedhiyba11
-- 👀 I’m interested in ...fullstack web development 
-- 🌱 I’m currently learning ... c,python
+- 👀 I’m interested in .. Data Analytics and Data Science 
+- 🌱 I’m currently learning ... python, R
 - 💞️ I’m looking to collaborate on ...nothing yet
 - 📫 How to reach me ...my email ahmedhiyba11@gmail.com
 
